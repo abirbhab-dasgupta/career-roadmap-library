@@ -61,7 +61,7 @@ We welcome contributions to enhance and expand our roadmap library! Here's how y
 4. Push to the branch: `git push origin feature/AmazingFeature`
 5. Open a pull request.
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
 
 ## 📄 License
 
